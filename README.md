@@ -1,5 +1,5 @@
 # 3rdwave1
-
+[![Build Status](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator.svg?branch=master)](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator)
 - single page website
 
 A demo for the Website App is available [here](http://html.pengqiuyuan.com/3rd1/index.html).
