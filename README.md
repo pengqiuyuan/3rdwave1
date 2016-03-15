@@ -1,2 +1,3 @@
 # 3rdwave1
-Single Page Web Design
+
+[![Build Status](https://travis-ci.org/vmware/harbor.svg?branch=master)](https://travis-ci.org/vmware/harbor)
