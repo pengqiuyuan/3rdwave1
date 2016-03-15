@@ -13,3 +13,6 @@ A demo for the Website App is available [here](https://cloud.githubusercontent.c
 ### Mobile Apps (iOS & Android)
 
 ![Mobile Apps](https://cloud.githubusercontent.com/assets/4953205/13773165/e6ffc8d8-ead2-11e5-9cb3-d9baa03e1a01.png "Mobile Apps")
+
+### Gif
+
