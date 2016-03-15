@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator.svg?branch=master)](https://travis-ci.org/benoitvallon/react-native-nw-react-calculator)
 - single page website
 
-https://cloud.githubusercontent.com/assets/4953205/13773876/bd8e38c8-ead6-11e5-975c-ca187abf9916.gif
+![gif3](https://cloud.githubusercontent.com/assets/4953205/13773876/bd8e38c8-ead6-11e5-975c-ca187abf9916.gif)
 
 A demo for the Website App is available [here](http://html.pengqiuyuan.com/3rd1/index.html).
 
