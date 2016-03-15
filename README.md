@@ -1,3 +1,3 @@
 # 3rdwave1
 
-[![Build Status](http://html.pengqiuyuan.com/3rd1/index.html)](http://html.pengqiuyuan.com/3rd1/index.html)
+[![Build Status](https://travis-ci.org/vmware/harbor.svg?branch=master)](https://travis-ci.org/vmware/harbor)
